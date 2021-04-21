@@ -141,9 +141,9 @@ CLASSIFIER_DEP_BLOCK = """
 <dependency>
   <groupId>{0}</groupId>
   <artifactId>{1}</artifactId>
-  <version>{2}</version>
-  <type>{3}</type>
-  <classifier>{4}</classifier>
+  <version>{4}</version>
+  <type>{2}</type>
+  <classifier>{3}</classifier>
 </dependency>
 """.strip()
 
